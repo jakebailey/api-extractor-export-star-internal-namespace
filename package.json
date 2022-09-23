@@ -1,0 +1,24 @@
+{
+  "name": "api-extractor-export-star-internal-namespace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "api-extractor": "tsc && api-extractor run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jakebailey/api-extractor-export-star-internal-namespace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakebailey/api-extractor-export-star-internal-namespace/issues"
+  },
+  "homepage": "https://github.com/jakebailey/api-extractor-export-star-internal-namespace#readme",
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.31.2",
+    "typescript": "^4.8.3"
+  }
+}
